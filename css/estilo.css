@@ -1,0 +1,42 @@
+body{
+    background-color:lightpink;
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    color: rgb(1, 1, 1);
+}
+
+ h1,h2{
+     text-align: center;
+     color:rgb(255, 0, 242);
+     background-color: rgb(170, 6, 202);
+           
+}
+
+ p,ul{
+    
+     color: aliceblue;
+     background-color: rgb(241, 108, 235); 
+     text-align: justify;
+     line-height: 1.5; 
+     font-size: 1.5em; 
+     text-indent: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+ul,li{
+    text-decoration: dashed;
+    color: rgb(255, 254, 254);
+    font-size: 1.5em;
+    color: darkmagenta; 
+}
+
+img{
+     margin: auto;
+     display: block;
+     width: 50%
+}
+
+ footer{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
