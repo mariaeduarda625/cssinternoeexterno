@@ -1,11 +1,11 @@
 # cssinternoeexterno
 ## CSS inline
-https://mariaeduarda574.github.io/Meu-primeiro-site/cssinternoeexterno/indexinline.html
+https://mariaeduarda574.github.io/cssinternoeexterno/indexinline.html
 
 ## CSS interno
-https://mariaeduarda574.github.io/Meu-primeiro-site/cssinternoeexterno/indexinterno.html
+https://mariaeduarda574.github.io/cssinternoeexterno/indexinterno.html
 
 ## CSS externo
-https://mariaeduarda574.github.io/Meu-primeiro-site/cssinternoeexterno/indexexterno.html
+https://mariaeduarda574.github.io/cssinternoeexterno/indexexterno.html
 
 
